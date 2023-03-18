@@ -1,1 +1,1 @@
-# Assignment-6-posting-your-first-webpage
+# Assignment 6: Posting Your First Webpage
